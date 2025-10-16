@@ -1,19 +1,15 @@
-<h1 align="center">Hi 👋, I'm Sanika Tandale</h1>
-<h3 align="center">CSE Student | Passionate Learner | Java | Cyber Security Enthusiast | Eager To Learn & Grow</h3>
+<h1 align="center">Hi 👋, I'm Pratiksha Dhale </h1>
+<h3 align="center"> 'CSE 27' | C++ | Eager To Learn & Grow</h3>
 
 ---
 
-## 🔭 Current Work
-I'm currently working on **Virtual Campus Guide**, a project aimed at simplifying campus navigation for students and visitors.
+## 🔭 Current Work: I'm currently working on **Virtual Campus Guide**, a project aimed at simplifying campus navigation for students and visitors.
 
-## 🌱 Learning
-Currently diving deep into **Web Development** to enhance my frontend and backend skills.
+## 🌱 Learning: Currently diving deep into **Web Development** to enhance my frontend and backend skills.
 
-## 💬 Ask Me About
-** C, C++ , HTML, CSS, Java, Python,**
+## 💬 Ask Me About: **C, C++, HTML, CSS, Java, Python**
 
-## 📫 How to Reach Me
-**Email:** [pratikshadhale4@gmail.com](mailto:pratikshadhale4@gmail.com)
+## 📫 How to Reach Me: **Email:** [pratikshadhale4@gmail.com](mailto:pratikshadhale4@gmail.com)
 
 ---
 
@@ -22,6 +18,7 @@ Currently diving deep into **Web Development** to enhance my frontend and backen
   <a href="https://linkedin.com/in/pratikshadhale" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <br>
   <a href="mailto:pratikshadhale4@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
