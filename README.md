@@ -1,13 +1,7 @@
-<h1 align="center">Hi 👋, I'm Pratiksha Dhale</h1>
-<h3 align="center">CSE '27 | C++ |🚀 Eager To Learn & Grow </h3>
-
-
----
 
 <h2 align="center">✨ Hi 👋 I am Pratiksha Dhale!</h2>
 <h3 align="center">🚀 Web Developer| 🎓 CSE Student| 📚 Always enthusiastic about learning new skills</h3>
 
----
 
 ## 🧑‍💻 About Me
 
@@ -15,7 +9,6 @@
 - - 💬 Ask me about **C, C++, HTML, CSS, Java, Python**
 - 📫 Reach me at: **pratikshadhale4@gmail.com**
 
----
 
 ## ⚒️ Tech Stack & Tools
 
@@ -39,7 +32,7 @@
   <img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -51,15 +44,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratikshaDhale04&theme=tokyonight"/>
 </p>
 
----
-
-## 🔥 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikshaDhale04&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
@@ -72,6 +56,3 @@
   </a>
 </p>
 
----
-
-⭐️ From [Pratiksha Dhale](https://github.com/PratikshaDhale04)
